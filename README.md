@@ -1,6 +1,6 @@
 # 🚦 PLC Mode & Function Cycling Simulator
 
-This project simulates a PLC-based control system that continuously cycles through two operating **Modes** — `Mode-1` and `Mode-2` — each executing two **Functions** (`F1` and `F2`) in timed intervals. It was developed using **Allen-Bradley RSLogix 5000**, tested with **RSLogix Emulator**, and monitored via **RSLinx Classic Lite**.
+This project simulates a PLC-based control system that continuously cycles through two operating **Modes** — `Mode-1` and `Mode-2` — each executing two **Functions** (`F1` and `F2`) in timed intervals. It was developed using **Allen-Bradley RSLogix 500**, tested with **RSLogix Emulator**, and monitored via **RSLinx Classic Lite**.
 
 The logic updates memory to reflect the current state and counts how many times each state is entered.
 
@@ -8,7 +8,7 @@ The logic updates memory to reflect the current state and counts how many times 
 
 ## 🛠️ Tools Used
 
-- 🎛️ **RSLogix 5000 (Studio 5000)** – Allen-Bradley's PLC programming environment  
+- 🎛️ **RSLogix 500** – Allen-Bradley's PLC programming environment  
 - 🧪 **RSLogix Emulator** – Simulates controller behavior without physical hardware  
 - 🧩 **RSLinx Classic Lite** – Used to view real-time data during simulation  
 
