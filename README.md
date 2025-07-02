@@ -82,7 +82,7 @@ Each number increases only when the corresponding state is active.
 ## 🙋 Author
 
 **Sankeerth Pradeep**  
-🔗 [[https://github.com/yourusername](https://github.com/SankeerthPradeep)]
+🔗 [[https://github.com/SankeerthPradeep](https://github.com/SankeerthPradeep)]
 
 ---
 
