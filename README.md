@@ -72,7 +72,7 @@ Each number increases only when the corresponding state is active.
 ## 📸 Visual Overview
 
 ### Mode/Function Cycle Diagram  
-![Cycle Diagram](docs/mode-function-diagram.png)
+![Cycle Diagram](mode-function-diagram.png)
 
 ### RSLogix Emulator in Action  
 ![Emulator Screenshot](docs/emulator-screenshot.png)
